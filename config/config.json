@@ -1,0 +1,15 @@
+{
+  "resource": {
+    "source_path": "resources/raw",
+    "destination_path": "resources/processed"
+  },
+  "variables": {
+    "APPDIR": "C:/Users/ASING381/OneDrive - Capgemini/Documents/BCG_CaseStudy"
+  },
+  "functions": {
+    "question_id": 10,
+    "mode": "overwrite"
+  },
+  "version": "v1.2.0",
+  "app_name": "BCG_CaseStudy_analysis"
+}
